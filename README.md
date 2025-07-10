@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 오철웅</h1>
-<h3 align="center">개발자입니다</h3>
+<h3 align="center">신입 개발자 입니다</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin&label=Profile%20views&color=0e75b6&style=flat" alt="kevin" /> </p>
 
